@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amustiverse
 - 👀 I’m interested in Data and its many offshoots. Analytics and Data Science in particular
-- 🌱 I’m currently learning Data Science and Analytics and doing a Masters in Computer Science
-- 💞️ I’m looking to collaborate on Data Projects
+- 🌱 I have worked in Data Science and Analytics and I hold a Masters Degree in Computer Science as well.
+- 💞️ I’m looking to collaborate on Data Projects, and explore curirosities and data driven approaches to any possible project or question that invokes my interest
 - 📫 How to reach me awais10tm@gmail.com
 
 <!---
